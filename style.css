@@ -1,0 +1,81 @@
+
+body{
+    background-color: rgba(126, 135, 107, 0.604);
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    background-color: cornflowerblue;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.fakeTre{
+    display: flex;
+    justify-content: center;
+    min-height: 400px;
+    gap: 10px ;
+    padding: 10px;
+}
+
+#column1{
+    padding: 10px;
+    min-width: 200px;
+    border-radius: 5px;
+    background-color: rgb(255, 0, 0);
+}
+
+#column2{
+    padding: 10px;
+    min-width: 200px;
+    border-radius: 5px;
+    background-color: rgb(255, 225, 30);
+}
+
+#column3{
+    padding: 10px;
+    min-width: 200px;
+    border-radius: 5px;
+    background-color: green;
+}
+
+.item{
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.dragging{
+    opacity: 5px;
+}
+
+.topo{
+    display: flex;
+    justify-content: center;
+    gap: 10px ;
+    padding: 10px;
+}
+
+.topo1{
+    padding: 10px;
+    min-width: 200px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.topo2{
+    padding: 10px;
+    min-width: 200px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.topo3{
+    padding: 10px;
+    min-width: 200px;
+    border-radius: 5px;
+    background-color: white;
+}
